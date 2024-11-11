@@ -1,0 +1,28 @@
+long _numero=14+4;
+
+while (2<3) {
+	
+}
+
+if (_numero, 3) then { 	
+	read(_numero);
+	write();
+	while(_numero) {
+		read();
+	}
+	write();
+} 
+
+double _numero = 9.0;
+if (4) then{ 	
+	read();
+	write();
+	while(_numero) {
+		read();
+	}
+	write();
+} else{
+	read();
+	write();
+}
+ long _numero = 83;
